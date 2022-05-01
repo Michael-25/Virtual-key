@@ -22,6 +22,7 @@ public class WelcomeScreen implements Screen {
     	System.out.println(welcomeText);
     	System.out.println("\n");
     	System.out.println("Virtual Key Application");
+        System.out.println("Developed by: Manoj Michael Raj.A");
         System.out.println("\n");
         Show();
     }
